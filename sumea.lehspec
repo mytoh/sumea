@@ -1,0 +1,6 @@
+(spec
+ (name "sumea")
+ (description "fuzzy string match")
+ (homepage "http://github.com/mytoh/sumea")
+ (files ("sumea.scm"
+         "sumea.lehspec")))
