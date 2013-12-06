@@ -2,5 +2,5 @@
  (name "sumea")
  (description "fuzzy string match")
  (homepage "http://github.com/mytoh/sumea")
- (files ("lib/sumea/sumea.scm"
+ (files ("lib/sumea.scm"
          "sumea.lehspec")))
